@@ -2,7 +2,7 @@
 Exemple de présentation d'une page web intéractive
 
 ## Détails
-Utilisation  de HTML, CSS, Javascript, jQuéry
+Utilisation  de HTML, CSS, jQuéry
 
 ## Aperçu
 ![Top_5_des_meilleures_actrices](images/apercu_readme/top_5_actrices_references.png)
