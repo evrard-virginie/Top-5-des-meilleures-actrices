@@ -14,3 +14,8 @@ Virginie Evrard, octobre 2020
 J'ai réalisé ce site en suivant les explications d'un cours sur Udémy. 
 Merci à l'auteur John Taieb, pour sa formation : Formation Complète Développeur Web,
 qui m'auras permis d'améliorer mes compétences en programmation HTML, CSS et jQuéry.
+
+## Mises à jour
+- Date de la dernière MAJ : 24/07/2023
+- Mise à jour du lien jQuery, Extrait 3.x sur 
+- https://developers.google.com/speed/libraries?hl=fr#jquery
